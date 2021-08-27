@@ -11,7 +11,7 @@ Note that this is running with a debug webpack server! Also note that this is no
 
 ## Loading the UI
 This application serves two single page applications:
-* http://<hostname>:8080/ The players' UI (meant to be run from a phone)
-* http://<hostname>:8080/#/main The "main" gameboard UI to be viewed on a TV or shared screen
+* http://<hostname>:8080/        The players' UI (meant to be run from a phone)
+* http://<hostname>:8080/#/main  The "main" gameboard UI to be viewed on a TV or shared screen
 
 At this point, players can go to the players' UI, set a name, and play. Stats and the current board should show up on the main screen.
